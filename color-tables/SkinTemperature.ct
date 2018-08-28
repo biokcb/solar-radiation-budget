@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<Object name="ColorTable">
+    <Field name="Version" type="string">2.10.0</Field>
+    <Object name="ColorControlPointList">
+        <Object name="ColorControlPoint">
+            <Field name="colors" type="unsignedCharArray" length="4">204 255 255 255 </Field>
+        </Object>
+        <Object name="ColorControlPoint">
+            <Field name="colors" type="unsignedCharArray" length="4">109 204 255 255 </Field>
+            <Field name="position" type="float">0.1829653</Field>
+        </Object>
+        <Object name="ColorControlPoint">
+            <Field name="colors" type="unsignedCharArray" length="4">85 170 255 255 </Field>
+            <Field name="position" type="float">0.340694</Field>
+        </Object>
+        <Object name="ColorControlPoint">
+            <Field name="colors" type="unsignedCharArray" length="4">51 204 224 255 </Field>
+            <Field name="position" type="float">0.5646688</Field>
+        </Object>
+        <Object name="ColorControlPoint">
+            <Field name="colors" type="unsignedCharArray" length="4">244 204 153 255 </Field>
+            <Field name="position" type="float">0.7003155</Field>
+        </Object>
+        <Object name="ColorControlPoint">
+            <Field name="colors" type="unsignedCharArray" length="4">253 217 143 255 </Field>
+            <Field name="position" type="float">0.7129338</Field>
+        </Object>
+        <Object name="ColorControlPoint">
+            <Field name="colors" type="unsignedCharArray" length="4">255 204 0 255 </Field>
+            <Field name="position" type="float">0.7507886</Field>
+        </Object>
+        <Object name="ColorControlPoint">
+            <Field name="colors" type="unsignedCharArray" length="4">255 220 79 255 </Field>
+            <Field name="position" type="float">0.785489</Field>
+        </Object>
+        <Object name="ColorControlPoint">
+            <Field name="colors" type="unsignedCharArray" length="4">255 111 15 255 </Field>
+            <Field name="position" type="float">0.873817</Field>
+        </Object>
+        <Object name="ColorControlPoint">
+            <Field name="colors" type="unsignedCharArray" length="4">240 16 64 255 </Field>
+            <Field name="position" type="float">0.9400631</Field>
+        </Object>
+        <Object name="ColorControlPoint">
+            <Field name="colors" type="unsignedCharArray" length="4">185 0 0 255 </Field>
+            <Field name="position" type="float">1</Field>
+        </Object>
+        <Field name="smoothing" type="string">CubicSpline</Field>
+        <Field name="category" type="string">UserDefined</Field>
+    </Object>
+</Object>
